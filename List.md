@@ -10,12 +10,17 @@ In python , a list is created by placing elements square brackets [], seperated 
 Example of list of strings
 
 ```diff
-- fruits = ['banana, 'mango', 'apple', 'orange']```
++ fruits = ['banana, 'mango', 'apple', 'orange']
+```
 
 A list can have any number of items and they can be of different types ('integers,float,string') or combination of these.
 
-```- mixed_list = [1. 6.7, 'john' , ]```
+```diff
++ mixed_list = [1. 6.7, 'john' , ]
+```
 
 A list may also contain diplicate items.
 
-```- age = [20, 30 ,20 ,28]```
+```diff
++ age = [20, 30 ,20 ,28]
+```
