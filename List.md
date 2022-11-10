@@ -9,7 +9,7 @@ In python , a list is created by placing elements square brackets [], seperated 
 
 Example of list of strings
 
-```diff
+```js
 + fruits = ['banana, 'mango', 'apple', 'orange']
 ```
 
