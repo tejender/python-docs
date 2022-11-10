@@ -9,13 +9,13 @@ In python , a list is created by placing elements square brackets [], seperated 
 
 Example of list of strings
 
-```js
+```css
  fruits = ['banana', 'mango', 'apple', 'orange']
 ```
 
 A list can have any number of items and they can be of different types ('integers,float,string') or combination of these.
 
-```json
+```css
 mixed_list = [1. 6.7, 'john'  ]
 ```
 
