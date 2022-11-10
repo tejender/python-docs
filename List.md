@@ -15,7 +15,8 @@ Example of list of strings
 
 A list can have any number of items and they can be of different types ('integers,float,string') or combination of these.
 
-```html mixed_list = [1. 6.7, 'john'  ]
+```json
+mixed_list = [1. 6.7, 'john'  ]
 ```
 
 A list may also contain diplicate items.
