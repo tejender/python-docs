@@ -2,7 +2,7 @@
 
 Lists are used to store multiple items into single variables.
 
-**Creating python lists**
+![#F03c15]Creating python lists
 
 In python , a list is created by placing elements square brackets [], seperated by comma
 
