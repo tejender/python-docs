@@ -2,7 +2,7 @@
 
 Lists are used to store multiple items into single variables.
 
-```diff
+```
 - Creating python lists
 ```
 
